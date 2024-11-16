@@ -1,0 +1,4 @@
+* Open Project in IntelliJ IDEA
+* Click "=" then Project structure -> "+" -> Maven -> in search bar write "spring" and click search and downdrop
+* Select spring then -> ok -> apply -> ok
+* Run -> src ->Test ->Java ->ThemeChngeTest
